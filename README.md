@@ -1,4 +1,4 @@
-### Hi there 👋
+![gif](https://github.com/Csqhi515/Csqhi515/blob/main/github-contribution-grid-snake-dark.svg)
 
 <!--
 **Csqhi515/Csqhi515** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
